@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenlightjohnny)](https://github.com/greenlightjohnny/github-readme-stats&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenlightjohnny&show_icons=true&theme=radical)](https://github.com/greenlightjohnny/github-readme-stats&show_icons=true&theme=radical)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=just_gonna_send_it)](https://github.com/greenlightjohnny/github-readme-stats&show_icons=true&theme=radical)
 
 
