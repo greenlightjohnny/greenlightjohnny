@@ -1,5 +1,5 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenlightjohnny&show_icons=true&theme=radical)](https://github.com/greenlightjohnny/github-readme-stats&show_icons=true&theme=radical) -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=just_gonna_send_it&show_icons=true&theme=radical)](https://github.com/greenlightjohnny&show_icons=true&theme=radical/github-readme-stats&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=just_gonna_send_it&show_icons=true&theme=radical&layout=compact)](https://github.com/greenlightjohnny/github-readme-stats)
 
 
 <!--
