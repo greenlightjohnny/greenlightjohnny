@@ -1,5 +1,5 @@
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=just_gonna_send_it&show_icons=true&theme=radical&layout=compact)](https://github.com/greenlightjohnny/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=just_gonna_send_it&show_icons=true&theme=outrun&layout=compact)](https://github.com/greenlightjohnny/github-readme-stats)
 
 
 <!--
